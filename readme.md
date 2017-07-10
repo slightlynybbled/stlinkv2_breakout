@@ -10,5 +10,9 @@ The board is 1.38" x 0.61", which is about as small as you could make it and sti
 
 # Maturity #
 
-Although I have no reason to suspect that the board will not work as designed, it has not yet been tested.
+Works using the SWO protocol just fine :)
 
+# Pics #
+
+![top](img/top.png)
+![bottom](img/bottom.png)
